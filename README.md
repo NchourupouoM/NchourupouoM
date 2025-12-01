@@ -78,5 +78,5 @@ Basé à **Yaoundé**, je suis un **Ingénieur IA** et **Data Scientist** passio
 ---
 
 <div align="center">
-  <small>Portfolio généré pour Nchourupouo Mohamed - 2025</small>
+  <small>Mohamed nchourupouo</small>
 </div>
