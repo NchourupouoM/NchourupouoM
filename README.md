@@ -7,7 +7,7 @@
     <b>Spécialiste en Agents IA Autonomes | Backend Python | Big Data</b>
   </p>
   
-  <a href="https://www.linkedin.com/in/mohamed-nchourupouo-a170262a0/">
+  <a href="www.linkedin.com/in/mohamed-nchourupouo-9530a6279">
     <img src="https://img.shields.io/badge/LinkedIn-Connectons--nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nchourupouom@gmail.com">
