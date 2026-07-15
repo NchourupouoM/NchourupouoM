@@ -22,12 +22,12 @@
 
 ### 👨‍💻 À propos de moi
 
-Basé à **Yaoundé**, je suis un **Ingénieur IA** et **Data Scientist** passionné par la transformation de données brutes en systèmes intelligents. Actuellement en Master IA & Big Data, je me spécialise dans la création d'**Agents IA** (avec LangChain/CrewAI) et le déploiement d'architectures Backend robustes.
+Basé à **Yaoundé**, je suis un **Ingénieur IA** et **Data Scientist** passionné par la transformation de données brutes en systèmes intelligents. je me suis spécialisé dans la création d'**Agents IA** (avec LangChain/langraph,CrewAI, llamaIndex et AutoGen) et le déploiement d'architectures Backend robustes.
 
 *   🔭 Je travaille actuellement sur : **L'orchestration de systèmes multi-agents avec CrewAI.**
 *   🌱 J'apprends : **Les architectures LLM avancées et le MLOps.**
-*   🎓 Formation : Master IA & Big Data @ **Keyce Informatique**.
-*   💼 Expérience : Innovatech, BUNEC, Hydro-Mekin.
+*   🎓 Formation : Master IA & Big Data @ **Keyce Informatique**, Licence en data science **Universite de Yaounde I**
+*   💼 Expérience : Cleeroute (www.cleeroute.com), BUNEC, Hydro-Mekin
 
 ---
 
